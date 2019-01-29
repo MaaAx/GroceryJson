@@ -28,36 +28,6 @@
       "name": "Ice Cream - Life Savers",
       "description": "Burn of second degree of left lower leg, sequela",
       "img": "http://dummyimage.com/600x400.png/dddddd/000000"
-    },
-    {
-      "id": 6,
-      "name": "Wine - Ruffino Chianti",
-      "description": "Other instability, unspecified hand",
-      "img": "http://dummyimage.com/600x400.png/cc0000/ffffff"
-    },
-    {
-      "id": 7,
-      "name": "Fish - Base, Bouillion",
-      "description": "Tanapox virus disease",
-      "img": "http://dummyimage.com/600x400.png/ff4444/ffffff"
-    },
-    {
-      "id": 8,
-      "name": "Lotus Leaves",
-      "description": "Unspecified drowning and submersion, undetermined intent, sequela",
-      "img": "http://dummyimage.com/600x400.png/dddddd/000000"
-    },
-    {
-      "id": 9,
-      "name": "Rappini - Andy Boy",
-      "description": "Unspecified injury of flexor muscle, fascia and tendon of left index finger at wrist and hand level, initial encounter",
-      "img": "http://dummyimage.com/600x400.png/5fa2dd/ffffff"
-    },
-    {
-      "id": 10,
-      "name": "Chocolate - Compound Coating",
-      "description": "Unspecified fracture of right toe(s), subsequent encounter for fracture with routine healing",
-      "img": "http://dummyimage.com/600x400.png/cc0000/ffffff"
     }
   ]
 }
